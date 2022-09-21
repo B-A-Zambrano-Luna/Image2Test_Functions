@@ -95,6 +95,7 @@ class imate2test(object):
                 value_leaf = emmending[leaf].mean()
             # print("mean", value_leaf)
             adds.append(value_leaf)
+        return np.array(adds)
 
     def inverse_transform(self, f):
         p = self.p
