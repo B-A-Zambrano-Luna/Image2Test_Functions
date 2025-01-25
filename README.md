@@ -27,3 +27,10 @@ In this article we introduce the p-adic cellular neural networks which are mathe
   year={2023},
   publisher={Springer}
 }
+
+@article{zambrano2023p,
+  title={p-adic cellular neural networks and applications= Redes neuronales celulares p-{\'a}dicas y aplicaciones},
+  author={Zambrano Luna, Brian Andres},
+  year={2023},
+  publisher={Tesis (DC)--Centro de Investigaci{\'o}n y de Estudios Avanzados del IPN~…}
+}
